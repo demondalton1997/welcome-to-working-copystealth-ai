@@ -1,0 +1,9 @@
+{
+  "name": "PhantomLauncher",
+  "actions": [
+    {
+      "type": "OpenApp",
+      "parameters": { "app": "Pyto" }
+    }
+  ]
+}

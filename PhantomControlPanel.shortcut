@@ -1,0 +1,9 @@
+{
+  "name": "PhantomControlPanel",
+  "actions": [
+    {
+      "type": "RunScriptOverSSH",
+      "parameters": { "script": "phantom_terminal.sh" }
+    }
+  ]
+}
